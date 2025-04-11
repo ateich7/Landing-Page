@@ -131,3 +131,25 @@ h4 {
     color:#007f3b;
     font-weight: 600;
 }
+
+.four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.cta {
+    background-color: #007f3b;
+    border-radius: 6px;
+    padding: 64px;
+    display: flex;
+    justify-content: space-between;
+    width:800px;
+}
+
+h5 {
+    font-size: 24px;
+    color: #2FF000;
+    padding-bottom: 4px;
+}
