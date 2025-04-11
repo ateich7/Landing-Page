@@ -153,3 +153,11 @@ h5 {
     color: #2FF000;
     padding-bottom: 4px;
 }
+
+.footer {
+    background-color: #00210f;
+    height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
