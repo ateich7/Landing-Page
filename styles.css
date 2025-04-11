@@ -103,3 +103,31 @@ p {
     padding: 32px;
     text-align: center;
 }
+
+.three {
+    background-color: #e2fadc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    align-items: flex-end;
+    gap: 24px;
+}
+
+h3 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+}
+
+h4 {
+    font-size: 24px;
+    color:#007f3b;
+    font-weight: 600;
+}
